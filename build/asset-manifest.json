@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.99b60241.css",
-  "main.css.map": "static/css/main.99b60241.css.map",
-  "main.js": "static/js/main.01aed1f5.js",
-  "main.js.map": "static/js/main.01aed1f5.js.map"
+  "files": {
+    "main.css": "/Tres-en-linea/static/css/main.2cb9a270.css",
+    "main.js": "/Tres-en-linea/static/js/main.1e11c710.js",
+    "index.html": "/Tres-en-linea/index.html",
+    "main.2cb9a270.css.map": "/Tres-en-linea/static/css/main.2cb9a270.css.map",
+    "main.1e11c710.js.map": "/Tres-en-linea/static/js/main.1e11c710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.1e11c710.js"
+  ]
 }
